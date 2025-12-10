@@ -1,10 +1,10 @@
 import React from 'react'
 
-const Celsius = () => {
+const Celsius = ({ onCelsiusChange, celsius }) => {
   return (
     <div>
         <label>Enter in Celsius </label>
-        <input placeholder='Enter in celsius'/>
+        <input onChange={(e) => onCelsiusChange(e.target.value)} placeholder='Enter in celsius' value={celsius}/>
     </div>
   )
 }

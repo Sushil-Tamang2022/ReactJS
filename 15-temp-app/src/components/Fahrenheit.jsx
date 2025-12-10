@@ -1,10 +1,10 @@
 import React from 'react'
 
-const Fahrenheit = () => {
+const Fahrenheit = ({ onFarenheitChange, fahrenheit }) => {
   return (
     <div>
         <label>Enter in Fahrenheit </label>
-        <input type='text' placeholder='Enter in Fahrenheit'/>
+        <input onChange={(e) => onFarenheitChange(e.target.value)} type='text' placeholder='Enter in Fahrenheit' value={fahrenheit}/>
     </div>
   )
 }
