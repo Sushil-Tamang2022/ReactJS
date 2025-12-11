@@ -4,7 +4,7 @@ const Options = ({ options, onAnswerCheck }) => {
   return (
     <div style={{ display: "flex", flexDirection: "column", gap: "10px" }}>
         {options.map(option => (
-            <button onClick={() => onAnswerCheck(option.text)}>{option.text}</button>
+            <button key={option.id} onClick={() => onAnswerCheck(option.text)}>{option.text}</button>
         ))}
     </div>
   )

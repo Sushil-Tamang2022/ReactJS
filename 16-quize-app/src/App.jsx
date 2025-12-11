@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import Question from './components/Question';
 import Options from './components/Options';
+import Result from './components/Result';
 
 const questions = [
     {
@@ -40,19 +41,34 @@ const questions = [
 
 const App = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
+  const [score, setScore] = useState(0);
+  const [showResult, setShorResult] = useState(false);
 
   const handleAnswerCheck = (option) => {
+    if (option === questions[currentIndex].answer) {
+      setScore(score + 1)
+    }
     const newIndex = currentIndex + 1;
     if (newIndex < questions.length) {
       setCurrentIndex(newIndex);
+    } else {
+      setShorResult(true )
     }
   }
 
   return (
     <div>
-      <h1>Quize App</h1>
-      <Question question={questions[currentIndex].question}/>
-      <Options onAnswerCheck={handleAnswerCheck} options={questions[currentIndex].options}/>
+      {showResult ? (
+        <Result score={score} total={questions.length}/>
+      ) : (
+        <div>
+          <h1>Quize App</h1>
+          <Question question={questions[currentIndex].question}/>
+          <Options onAnswerCheck={handleAnswerCheck} options={questions[currentIndex].options}/>
+          <p>Question {currentIndex+ 1} of {questions.length}</p>
+        </div>
+      )}
+      
     </div>
   )
 }
