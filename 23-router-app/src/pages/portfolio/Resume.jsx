@@ -1,0 +1,12 @@
+import React from 'react'
+
+const Resume = () => {
+  return (
+    <div>
+      <h1>Resume</h1>
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet maiores eum debitis fuga tenetur, sint dignissimos dicta pariatur corporis at voluptate possimus dolor in ut alias consectetur eos explicabo neque sunt blanditiis iure praesentium ex expedita repellendus! Laudantium, dolor totam, maiores dolorem eum sunt ea enim eos corporis necessitatibus optio quis perspiciatis quos voluptatem. Soluta inventore nihil accusantium omnis illo dignissimos enim minima, architecto quae dicta vero numquam, animi provident error ipsa. Minus quae architecto odio magnam voluptatum optio nam facere quasi perspiciatis sequi exercitationem consequuntur, consequatur autem. Numquam perferendis voluptas accusamus libero, ducimus nihil doloribus? Sequi, officia unde consequatur quibusdam fugiat, labore placeat cum sit, molestiae nisi deleniti cumque omnis. Beatae iste provident placeat magnam corrupti illo veritatis impedit incidunt exercitationem ex aperiam, deleniti porro nesciunt omnis rerum, commodi quibusdam laborum tenetur voluptatum, voluptate nulla! Maxime corporis non molestiae quis, eligendi vitae at ipsam dignissimos et porro delectus facilis doloremque nesciunt, accusamus, eos est dolorum debitis id! Deleniti quam autem provident est harum, numquam fugiat praesentium quae consequuntur dolorem nihil voluptatem quis vel necessitatibus quos impedit delectus! Cupiditate quia iure corporis ratione repellendus, facere suscipit placeat earum culpa blanditiis mollitia excepturi odio error. Repellat dolorum alias dicta eos exercitationem recusandae, sint earum. Quos quod incidunt quas earum id eveniet ipsam dicta itaque corporis. Accusantium minima molestiae maxime suscipit, possimus quis aut repellat quia sunt, beatae excepturi et expedita veniam esse fuga! Blanditiis consectetur obcaecati tenetur cum labore, fuga dolorum assumenda itaque ut doloribus nemo officiis excepturi repudiandae. Iste iure ab minima in. Aspernatur a, molestias omnis voluptates sapiente cupiditate, neque natus dolorum maiores unde est quos blanditiis ipsum facilis quaerat amet quasi quisquam odio ullam perferendis praesentium. Cupiditate ipsum natus a temporibus labore ex incidunt voluptatibus nostrum nihil, quae quo voluptates expedita pariatur similique sed? Deserunt tempore eos dolorem?</p>
+    </div>
+  )
+}
+
+export default Resume

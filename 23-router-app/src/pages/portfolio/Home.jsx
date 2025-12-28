@@ -1,0 +1,12 @@
+import React from 'react'
+
+const Home = () => {
+  return (
+    <div>
+      <h1>Home Page</h1>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore et cupiditate, dolore perspiciatis vel qui sunt nobis reiciendis, neque animi, ipsa sed non illum odio nam optio iusto recusandae beatae nostrum officiis iure eaque corrupti debitis veniam? Officiis ducimus dolore laudantium minus molestiae illum obcaecati doloremque doloribus laborum! Soluta quasi autem nobis voluptatum et corporis nisi illo nesciunt, fugiat totam. Omnis, debitis corrupti perferendis doloribus maiores sunt officia, neque odio cumque alias incidunt distinctio earum asperiores natus laboriosam quisquam harum nihil, quia itaque fuga recusandae est dicta vel quae? A, ipsa. Labore expedita dignissimos libero quod reprehenderit nesciunt laudantium enim non, aspernatur incidunt temporibus reiciendis fuga tenetur sint velit praesentium architecto repellat voluptatum quo quos? Dolorum, id? Veritatis ipsam labore dignissimos saepe corrupti, non provident delectus eveniet nemo quasi, earum vel explicabo omnis totam voluptatem incidunt molestiae error quas, iusto exercitationem! Repellendus, culpa ea consequatur perferendis ut, nulla fuga, nisi atque assumenda doloribus maxime at deleniti reprehenderit sit. Velit dolorem delectus, vitae facilis debitis suscipit aliquam hic dolores, iure nulla vero quidem assumenda quisquam et asperiores id placeat. At voluptatum, officiis accusamus quos, quidem quo soluta consequatur quam saepe necessitatibus blanditiis quis corporis error ex id. Inventore iure quis enim numquam libero nulla quia rem facere. Adipisci quia delectus rerum non dolores et assumenda reprehenderit quas eveniet. Error, quam ex unde optio aperiam maxime dolorum? Repellat repellendus voluptates delectus, illum ipsam consequuntur laborum, facere minima voluptas modi mollitia maxime ipsum ipsa earum possimus accusamus consectetur repudiandae tempore sunt. Libero fugit mollitia sit impedit consequatur excepturi sint! Reprehenderit optio veritatis minima sequi tenetur aliquid dicta dolores, eveniet laborum facilis provident libero ratione reiciendis ullam quis, odio mollitia voluptate perspiciatis molestias vel suscipit itaque fuga! Culpa vitae nobis maiores, corporis odit expedita voluptatibus nesciunt, ducimus aut vero tempora praesentium! Expedita, fugit ipsam!</p>
+    </div>
+  )
+}
+
+export default Home

@@ -1,0 +1,12 @@
+import React from 'react'
+
+const Contact = () => {
+  return (
+    <div>
+      <h1>Contact Us</h1>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora sit distinctio ea aliquam doloribus! Veritatis molestiae voluptates quos molestias. Tempora minima voluptatum at libero similique repudiandae. Architecto libero praesentium placeat voluptate? Sapiente repellat nihil maiores! Impedit, dicta. Incidunt laboriosam iusto repellat fugit ipsa. Rem, quo molestias ab doloribus repudiandae magnam reprehenderit! Distinctio quidem vitae incidunt. Error consequuntur deserunt laboriosam incidunt culpa corporis dolorum velit nobis neque voluptate. Nam cupiditate odit distinctio sequi ea consequuntur mollitia maiores perspiciatis necessitatibus ab iure ut aliquid, enim minima nesciunt ipsam esse id amet inventore dolor. In quis magnam, consequatur officia, sed, facere ipsam adipisci modi libero eveniet rem! Blanditiis veniam sapiente nulla placeat recusandae optio. Deleniti aliquid adipisci provident sapiente iusto vero earum cumque nostrum cupiditate minima. Molestiae labore, neque soluta ea consequatur illum! Atque exercitationem deleniti veniam adipisci quis quia itaque aspernatur dicta iste fugit ullam consectetur corrupti laboriosam id, enim qui sit dolores sed voluptate autem! Molestiae, possimus delectus aut explicabo eius, a in quos cupiditate voluptatibus recusandae architecto laboriosam consectetur eos inventore dolorum veritatis, ad sint! Quas excepturi eum error provident repellendus at, dolores necessitatibus. Obcaecati, consectetur? Illo ipsa at incidunt ab, maxime laborum dicta eveniet aspernatur magnam? Illum ratione blanditiis totam, nam dolore voluptas similique voluptatum repellat possimus facilis amet sit officia sapiente est sequi itaque in vitae, praesentium distinctio. Dolorum quis temporibus explicabo dicta, aperiam quo necessitatibus aliquam dolorem sequi reiciendis perferendis non odio placeat nobis iste reprehenderit a in quas rem nam. In minima repellat quas sed, perspiciatis at architecto. Esse dignissimos aut, quo quis eum magni laboriosam iusto, cupiditate iste ipsum neque voluptate et ipsa sint doloremque ut maxime fugiat sunt explicabo molestiae hic quam! Nihil, consectetur nisi repudiandae tempore laudantium distinctio pariatur architecto vel quibusdam enim commodi quia dolor ipsum sint esse nobis unde. Unde, repellat?</p>
+    </div>
+  )
+}
+
+export default Contact

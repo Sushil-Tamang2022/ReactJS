@@ -1,0 +1,12 @@
+import React from 'react'
+
+const Projects = () => {
+  return (
+    <div>
+      <h1>Projects</h1>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis ipsam culpa suscipit atque nostrum itaque, aperiam ipsa corporis adipisci minus voluptates! Totam nobis sit consequuntur odit porro. Cumque nam doloribus aut aperiam, tenetur officia perspiciatis obcaecati incidunt blanditiis asperiores. Ex deserunt, non quisquam sed eligendi totam iusto voluptas asperiores vitae illum necessitatibus rem dolor officiis officia molestias ipsam omnis, eveniet labore nulla doloribus atque quos et assumenda. Corrupti, excepturi dolor. Corrupti pariatur quaerat alias. Vitae debitis doloribus, voluptatibus totam in, sunt minima alias explicabo natus quas necessitatibus laudantium at recusandae ex culpa dolor ipsam quidem fugit, beatae quis repudiandae! Id nulla nemo quisquam sint, qui dolorem? Voluptatem voluptatum quibusdam sapiente, atque officia laudantium cum? Consequuntur excepturi obcaecati inventore distinctio adipisci sint hic ab beatae tempore voluptas, odit facilis doloribus facere eligendi in optio quidem pariatur fugiat officia iure magni reiciendis minus quibusdam doloremque. In, magnam, fugit soluta aliquam quaerat reiciendis alias impedit inventore dolore beatae aspernatur quidem quia sunt saepe illum voluptate? Minima culpa cupiditate natus ratione tempore voluptatem, doloremque veritatis soluta ab ipsam illum voluptatibus quis repellendus a fuga totam mollitia adipisci consectetur aliquid autem. Facilis odio dolorem sit accusantium, adipisci id doloremque asperiores molestiae, velit voluptatibus quaerat repellat officia quisquam ipsum totam ea error ex expedita hic. Odio cumque aspernatur perferendis dolorum at laboriosam aliquid, quo repellendus quasi vitae tempora, nihil architecto! Maxime mollitia recusandae doloribus voluptas dolorem labore, velit nihil at magnam fugit, rem ex, qui cupiditate impedit est. Perferendis esse aut dolorem suscipit assumenda fuga, iste eum ad enim deserunt numquam molestiae commodi eveniet, delectus vitae illum quos libero voluptatem a laborum omnis quis possimus debitis asperiores? Corrupti repellat odio accusamus optio a tempora quis eum officia. Impedit delectus unde libero vitae aliquam et fugiat. Nemo sunt dolore aliquam quia ab exercitationem in inventore tempora provident.</p>
+    </div>
+  )
+}
+
+export default Projects

@@ -1,0 +1,12 @@
+import React from 'react'
+
+const Skills = () => {
+  return (
+    <div>
+      <h1>Skillls</h1>
+      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod ea optio quas, at accusantium officia odit hic nesciunt, obcaecati suscipit culpa minus enim, eligendi harum ipsum animi ullam expedita vel ipsam aperiam? Odio, soluta eius culpa architecto repellat repudiandae nihil recusandae magnam ipsam error quisquam nostrum incidunt minima commodi dicta. Saepe magni debitis repellat dolores excepturi esse molestias, explicabo culpa corporis eius corrupti dolor aut porro modi quae tenetur. Aliquam aspernatur sapiente ipsum officia cumque temporibus at, ut obcaecati quod consequuntur autem blanditiis inventore qui illum ratione minus natus reiciendis quos nemo. Ab omnis impedit consequatur voluptatibus. Rerum, nemo delectus. Natus voluptatibus vero assumenda optio, et voluptatem quae in nobis harum deserunt aliquam aut eligendi quis rerum asperiores, atque ipsum iste nemo error veritatis aliquid, molestiae explicabo! Saepe illo tempora asperiores ratione eum necessitatibus provident totam ad itaque? Neque est reiciendis voluptatem sed dignissimos quidem quas? Delectus numquam id temporibus impedit eaque facere? Debitis dolorem exercitationem quaerat voluptatum aperiam, excepturi provident porro alias! Vitae similique sint ad, quibusdam inventore voluptatibus, quasi corrupti nemo pariatur hic exercitationem labore aspernatur ratione quas, suscipit cupiditate! Voluptas nisi laudantium minus nemo reiciendis doloribus voluptatem aliquid possimus officia molestias ea earum optio, facilis exercitationem maiores blanditiis minima corrupti impedit reprehenderit. Tenetur quibusdam accusamus velit nihil deleniti sit corrupti placeat, quo aliquid rerum veritatis soluta, saepe voluptate doloremque id maiores itaque voluptas cum ratione mollitia maxime iusto. Quaerat necessitatibus facere labore dolore nemo, mollitia incidunt saepe fugiat consequatur cupiditate doloribus laboriosam itaque fugit alias illum amet cumque placeat culpa nostrum ea omnis exercitationem repellat et! Quibusdam delectus nihil, praesentium iure assumenda sit, mollitia facilis quo at ut ducimus reprehenderit recusandae ipsa, dignissimos repellendus voluptatibus sunt! Libero quas, deleniti quos at sequi delectus iure repellendus dignissimos veniam, enim tenetur ab, earum rem quisquam assumenda. Aliquam, eaque necessitatibus.</p>
+    </div>
+  )
+}
+
+export default Skills
