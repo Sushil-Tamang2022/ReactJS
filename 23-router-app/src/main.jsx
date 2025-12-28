@@ -1,9 +1,9 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import Apps from './Apps'
+import CApp from './CApp'
 
 createRoot(document.getElementById('root')).render(
   <div>
-    <Apps />
+    <CApp />
   </div>
 )
