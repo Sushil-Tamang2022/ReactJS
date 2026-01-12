@@ -1,24 +1,23 @@
 import React from 'react'
-import "./index.css"
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-import Users from './pages/Users';
-const userLoader = async () => {
-  const response = await fetch("https://jsonplaceholder.typicode.com/users")
-  return response.json();
+import { createBrowserRouter } from 'react-router-dom';
+import { RouterProvider } from 'react-router-dom';
+import Posts from './pages/Posts';
+const postLoader = async() => {
+  const res = await fetch("https://jsonplaceholder.typicode.com/posts");
+  return res.json();
 }
-
 const router = createBrowserRouter([
   {
-    path: "/",
-    element: <Users />,
-    loader: userLoader
+    path: "/posts",
+    element: <Posts />,
+    loader: postLoader
   }
 ])
-
 const App = () => {
   return (
     <div>
-    <RouterProvider router={router}/>
+      <h1>Loader</h1>
+      <RouterProvider router={router}/>
     </div>
   )
 }
